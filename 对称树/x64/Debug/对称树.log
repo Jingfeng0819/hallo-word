@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\桌面文件\代码\hallo-word\对称树\main.cpp(9,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  对称树.vcxproj -> D:\桌面文件\代码\hallo-word\对称树\x64\Debug\对称树.exe
